@@ -3897,13 +3897,13 @@ ul.feature-icons {
 	}
 
 	
-.button {
+.textbutton {
   border: none;
   color: white;
   /* padding: 16px 32px; */
   text-align: center;
   text-decoration: none;
-  display: flex;
+  /* display: flex; */
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: 0.2s;
@@ -3915,7 +3915,8 @@ ul.feature-icons {
 
 .button1 {
   background-color: white; 
-  color: black; 
+  flex-direction: row;
+  /* color: black;  */
 	/* border-color: #2ee4bb; */
   
 }
