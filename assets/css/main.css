@@ -3922,7 +3922,7 @@ ul.feature-icons {
 }
 
 .button1:hover {
-  background-color:black;
+  /* background-color:black; */
   color: white;
 }
 
